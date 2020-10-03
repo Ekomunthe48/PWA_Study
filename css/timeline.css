@@ -1,0 +1,52 @@
+h3 {
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+    padding: 10px;
+}
+
+.set-menu {
+    margin: 10px;
+}
+
+.btn-small {
+    border: 5px solid #ffffff;
+}
+
+.menu-1 {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background: url(/src/tZnTIjaSmSSUSKMsTP0l_charlies-famous-chicken-salad-with-grapes_153.jpg) center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    height: 250px;
+    margin: 10px;
+}
+
+.menu-2 {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 250px;
+    background: url(/src/whCeWl0LRbCEBfa3J4YP_0S9A6313.jpg) center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    margin: 10px;
+}
+
+.menu-3 {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 250px;
+    background: url(/src/ErcPhaBVS2OMnh07iiZf_banana-cake-with-cream-cheese-frosting-08.jpg) center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    margin: 10px;
+}
